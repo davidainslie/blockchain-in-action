@@ -42,6 +42,7 @@ bin/
 .cache-main
 .cli-kondo
 /node_modules
+**/.package-lock.json
 
 # General
 *.class
